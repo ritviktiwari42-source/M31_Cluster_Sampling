@@ -1,2 +1,1 @@
-# M31_Cluster_Sampling
-Test
+Here, we are currently working through the decontainmination, sampling, and redefining the reliability of the clusters in the M31 galaxy initially captured by the PHAST survey. 
